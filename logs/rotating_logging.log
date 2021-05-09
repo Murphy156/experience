@@ -442,3 +442,62 @@ pymysql.err.OperationalError: (1049, "Unknown database 'experiment'")
 2021-05-09 21:29:00 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
 2021-05-09 21:29:00 [INFO] [get_data.py:90] sql result is : ()
 2021-05-09 21:29:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:29:00] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 22:33:12 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 22:33:12 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 22:33:13 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 22:33:13 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 22:33:25 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:33:25] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 22:33:35 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 22:33:35 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:33:35] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 22:33:36 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 22:33:36 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:33:36] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 22:33:59 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 22:33:59 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 22:33:59 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:33:59] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 22:34:03 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:34:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 22:34:04 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:34:04] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 22:34:04 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 22:34:04 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 22:34:04 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:34:04] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 22:36:06 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 22:36:14 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:14] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 22:36:14 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 22:36:14 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 22:36:14 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:14] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 22:36:34 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 22:36:34 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 22:36:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:34] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 22:36:48 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:48] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 22:36:54 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 22:36:54 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:54] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 22:36:54 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}, {'id': 10, 'name': 'hlk', 'order_day': '2021-05-10', 'order_time': '16:00-18:00'}]
+2021-05-09 22:36:54 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:36:54] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 22:37:09 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:09] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 22:37:09 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:09] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-09 22:37:09 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:09] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 22:37:09 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 22:37:09 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 22:37:09 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:09] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 22:37:09 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}, {'id': 10, 'name': 'hlk', 'order_day': '2021-05-10', 'order_time': '16:00-18:00'}]
+2021-05-09 22:37:09 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:09] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 22:37:19 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 22:37:19 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 22:37:19 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:19] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 22:37:22 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 22:37:22 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}, {'id': 10, 'name': 'hlk', 'order_day': '2021-05-10', 'order_time': '16:00-18:00'}, {'id': 11, 'name': 'jkalf', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 22:37:22 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 22:37:22] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 23:11:41 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 23:11:41 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 23:11:42 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 23:11:42 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 23:11:47 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 23:11:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 23:11:51 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 23:11:51] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 23:11:51 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 23:11:51 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}, {'id': 10, 'name': 'hlk', 'order_day': '2021-05-10', 'order_time': '16:00-18:00'}, {'id': 11, 'name': 'jkalf', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 23:11:51 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 23:11:51] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 23:12:44 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 23:12:44 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 23:12:44 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 23:12:44] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 23:12:47 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 23:12:47 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}, {'id': 8, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 9, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}, {'id': 10, 'name': 'hlk', 'order_day': '2021-05-10', 'order_time': '16:00-18:00'}, {'id': 11, 'name': 'jkalf', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}, {'id': 12, 'name': '冯云冲', 'order_day': '2021-05-10', 'order_time': '20:00-22:00'}]
+2021-05-09 23:12:47 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 23:12:47] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
