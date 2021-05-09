@@ -1,0 +1,6 @@
+db_conf:
+    host: 119.3.179.10
+    user: lishuohua
+    password: lishuohua
+    port: 3306
+    dbname: expeirment

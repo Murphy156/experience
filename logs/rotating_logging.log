@@ -1,0 +1,444 @@
+2021-05-08 21:22:28 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:1000/ (Press CTRL+C to quit)
+2021-05-08 21:22:28 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:22:28 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:22:28 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:24:15 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:24:15] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:24:15 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:24:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 21:24:27 [INFO] [_internal.py:113]  * Detected change in '/Users/lijunhua/Downloads/experience/core/run.py', reloading
+2021-05-08 21:24:27 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:24:27 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:24:27 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:24:47 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 21:24:47 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:24:47 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:24:47 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:24:52 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:24:52] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:24:52 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:24:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 21:25:40 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 21:25:40 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:25:40 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:25:40 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:27:01 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:27:01] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:27:14 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 21:27:14 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:27:14 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:27:14 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:27:30 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 21:27:30 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:27:30 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:27:30 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:27:35 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:27:35] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:34:12 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 21:34:12 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:34:12 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:34:12 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:34:19 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:34:19] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:34:27 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:34:27] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:34:27 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:34:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 21:51:49 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 21:51:49 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 21:51:49 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 21:51:49 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 21:52:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:52:02] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 21:52:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:52:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 21:52:09 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 21:52:09] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 22:04:31 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:04:31 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:04:31 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:04:31 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:04:37 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:04:37] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 22:05:48 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:05:48 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:05:49 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:05:49 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:05:54 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:05:54] "[33mGET / HTTP/1.1[0m" 404 -
+2021-05-08 22:24:00 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:24:00 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:24:01 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:24:01 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:24:06 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:24:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:24:06 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:24:06] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:27:49 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:27:49] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:29:00 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:29:00] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:29:03 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:29:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:33:38 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:33:38 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:33:38 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:33:38 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:33:51 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:33:51] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:33:51 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:33:51] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:33:51 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:33:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:33:56 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:33:56] "[35m[1mGET /api/v1/get_data/getdate HTTP/1.1[0m" 500 -
+2021-05-08 22:34:52 [INFO] [_internal.py:113]  * Detected change in '/Users/lijunhua/Downloads/experience/core/main/dataManagement/get_data.py', reloading
+2021-05-08 22:34:52 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:34:52 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:34:52 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:34:57 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:34:57] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:34:57 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:34:57] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:35:05 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:35:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:35:13 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:35:13] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:44:57 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:44:57 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:44:57 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:44:57 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:45:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:45:02] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:45:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:45:02] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:45:03 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:45:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:45:11 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:45:11] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:48:00 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:48:00 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:48:01 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:48:01 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:48:06 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:48:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:48:06 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:48:06] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:48:06 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:48:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:48:12 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:48:12] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:49:49 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:49:49 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:49:50 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:49:50 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:49:55 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:49:55] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:49:55 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:49:55] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:49:55 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:49:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:50:03 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:50:03] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:50:56 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:50:56 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:50:57 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:50:57 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:51:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:02] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:51:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:02] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:51:02 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:51:13 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:13] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:51:41 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:51:41 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:51:42 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:51:42 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:51:47 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:51:47 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:47] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:51:47 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:51:58 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:51:58] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:53:07 [INFO] [_internal.py:113]  * Detected change in '/Users/lijunhua/Downloads/experience/core/main/dataManagement/get_data.py', reloading
+2021-05-08 22:53:08 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:53:08 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:53:08 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:53:58 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:53:58 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:53:59 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:53:59 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:54:04 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:54:04] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:54:04 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:54:04] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:54:05 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:54:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:54:16 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:54:16] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-08 22:54:47 [INFO] [_internal.py:113]  * Detected change in '/Users/lijunhua/Downloads/experience/core/main/dataManagement/get_data.py', reloading
+2021-05-08 22:54:47 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:54:47 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:54:47 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:56:37 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-08 22:56:37 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-08 22:56:38 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-08 22:56:38 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-08 22:56:43 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:56:43] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-08 22:56:43 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:56:43] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-08 22:56:44 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:56:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-08 22:56:50 [INFO] [_internal.py:113] 127.0.0.1 - - [08/May/2021 22:56:50] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 14:13:09 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 14:13:09 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:13:09 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:13:09 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:13:18 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:13:18] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 14:13:18 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:13:18] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 14:13:19 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:13:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 14:13:19 [ERROR] [db_helper.py:44] Traceback (most recent call last):
+  File "/Users/lijunhua/Downloads/experience/core/main/utils/db/db_helper.py", line 40, in conndb
+    self._dbconn = pymysql.connect(host=self._dbconfig['host'], user=self._dbconfig['user'], password=self._dbconfig['password'], \
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pymysql/connections.py", line 633, in connect
+    self._request_authentication()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pymysql/connections.py", line 907, in _request_authentication
+    auth_packet = self._read_packet()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1049, "Unknown database 'experiment'")
+
+2021-05-09 14:13:19 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:13:19] "[35m[1mGET /api/v1/get_data/getdate HTTP/1.1[0m" 500 -
+2021-05-09 14:14:16 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 14:14:16 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:14:16 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:14:16 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:14:21 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:14:21] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 14:14:21 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:14:21] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 14:14:21 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:14:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 14:14:22 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:14:22] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 14:19:53 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 14:19:53 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:19:54 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:19:54 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:20:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:20:00] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 14:20:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:20:00] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 14:20:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:20:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 14:20:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:20:00] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 14:23:41 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 14:23:41 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:23:41 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:23:41 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:23:47 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:23:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 14:23:47 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:23:47] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 14:23:47 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:23:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 14:23:47 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:23:47] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 14:23:55 [INFO] [get_data.py:72] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 14:23:55 [INFO] [get_data.py:74] sql result is : ()
+2021-05-09 14:23:55 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:23:55] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 14:26:48 [INFO] [_internal.py:113]  * Detected change in '/Users/lijunhua/Downloads/experience/core/main/dataManagement/get_data.py', reloading
+2021-05-09 14:26:48 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:26:49 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:26:49 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:31:28 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 14:31:28 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:31:28 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:31:28 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:31:35 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:31:35] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 14:31:35 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:31:35] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 14:31:36 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:31:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 14:31:36 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:31:36] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 14:31:42 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:31:42] "[37mPOST /api/v1/get_data/deleteData HTTP/1.1[0m" 200 -
+2021-05-09 14:34:24 [INFO] [_internal.py:113]  * Detected change in '/Users/lijunhua/Downloads/experience/core/main/dataManagement/get_data.py', reloading
+2021-05-09 14:34:24 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:34:25 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:34:25 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:34:30 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 14:34:30 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 14:34:30 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 14:34:30 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 14:34:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:34:34] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 14:34:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:34:34] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 14:34:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:34:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 14:34:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:34:34] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 14:34:40 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 14:34:40] "[37mPOST /api/v1/get_data/deleteData HTTP/1.1[0m" 200 -
+2021-05-09 15:06:09 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 15:06:09 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 15:06:10 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 15:06:10 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 15:06:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:06:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:06:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:06:16] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 15:06:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:06:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 15:06:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:06:16] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:06:16 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:06:16 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:06:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:06:16] "[35m[1mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 500 -
+2021-05-09 15:07:45 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 15:07:45 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 15:07:46 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 15:07:46 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 15:07:50 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:07:50] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:07:50 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:07:50] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 15:07:50 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:07:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 15:07:51 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:07:51 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:07:51] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:07:51 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:07:51 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:07:51] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:10:30 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 15:10:30 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 15:10:30 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 15:10:30 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 15:10:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:10:34] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:10:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:10:34] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 15:10:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:10:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 15:10:34 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:10:34 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:10:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:10:34] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:10:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:10:34] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:12:50 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 15:12:50 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 15:12:51 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 15:12:51 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 15:12:53 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:53] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:12:53 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:53] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-09 15:12:53 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:12:53 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:12:53 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:53] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:12:54 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:54] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:12:56 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:12:56 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:56] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-09 15:12:56 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:56] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 15:12:57 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 15:12:57 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:12:57 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:57] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:12:57 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:12:57 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:12:57] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:13:55 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:13:55] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:13:55 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:13:55 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:13:55] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:13:55 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:13:55 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:13:55] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:14:06 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:14:06] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:14:07 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:14:07 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:14:07] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:14:07 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:14:07 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:14:07] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:14:36 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 15:14:36 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 15:14:36 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 15:14:36 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 15:14:38 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:14:38] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:14:38 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:14:38 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:14:38] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:14:38 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:14:38 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:14:38] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:17:07 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 15:17:08 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 15:17:08 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:17:08] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 15:17:26 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:17:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:17:27 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:17:27] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:17:28 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:17:30 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 3, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 15:17:30 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:17:30] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:24:34 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 15:24:34 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 15:24:34 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 15:24:34 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 15:24:41 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:24:41] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:24:41 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:24:41 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:24:41] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:24:41 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 3, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 15:24:41 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:24:41] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:25:32 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:32] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:25:32 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:25:32 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:32] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:25:32 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 3, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 15:25:32 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:32] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:25:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:34] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:25:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:34] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-09 15:25:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:34] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 15:25:35 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 15:25:35 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:25:35 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 3, 'name': '李君华', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 15:25:35 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:35] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:25:35 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:35] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:25:42 [INFO] [get_data.py:103] sql is : DELETE FROM order_list WHERE id = '3'
+2021-05-09 15:25:42 [INFO] [get_data.py:105] sql result is : ()
+2021-05-09 15:25:42 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:42] "[37mPOST /api/v1/get_data/deleteData HTTP/1.1[0m" 200 -
+2021-05-09 15:25:58 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:58] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:25:59 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:25:59 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:59] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:25:59 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:25:59 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:25:59] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:28:13 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:13] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:28:13 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:13] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:28:13 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:28:13 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:28:13 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:13] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:28:24 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:28:24 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:28:24 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:24] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:28:24 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:28:24 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:24] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:28:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:34] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:28:34 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:28:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:34] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:28:34 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:28:34 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:34] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:28:42 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:42] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:28:43 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:43] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:28:43 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:28:43 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}]
+2021-05-09 15:28:43 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:28:43] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:34:42 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 15:34:42 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 15:34:42 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:34:42] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 15:34:45 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:34:45] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:34:45 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:34:45 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:34:45] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:34:45 [INFO] [get_data.py:114] sql result is : [{'id': 2, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-09', 'order_time': '8:00-10:00'}, {'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 15:34:45 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:34:45] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 15:35:25 [INFO] [get_data.py:103] sql is : DELETE FROM order_list WHERE id = '2'
+2021-05-09 15:35:25 [INFO] [get_data.py:105] sql result is : ()
+2021-05-09 15:35:25 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:35:25] "[37mPOST /api/v1/get_data/deleteData HTTP/1.1[0m" 200 -
+2021-05-09 15:35:26 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:35:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 15:35:27 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:35:27] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 15:35:27 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 15:35:27 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 15:35:27 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 15:35:27] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 20:35:17 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 20:35:17 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 20:35:17 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 20:35:17 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 20:35:25 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:35:25] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 20:35:26 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 20:35:26 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:35:26] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 20:35:26 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 20:35:26 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:35:26] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 20:36:26 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 20:36:26 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 20:36:26 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:36:26] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 20:36:31 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:36:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 20:36:32 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:36:32] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 20:36:32 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 20:36:32 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 5, 'name': '齐佳祥', 'order_day': '2021-05-10', 'order_time': '8:00-10:00'}]
+2021-05-09 20:36:32 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:36:32] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 20:37:43 [INFO] [get_data.py:103] sql is : DELETE FROM order_list WHERE id = '5'
+2021-05-09 20:37:43 [INFO] [get_data.py:105] sql result is : ()
+2021-05-09 20:37:43 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:37:43] "[37mPOST /api/v1/get_data/deleteData HTTP/1.1[0m" 200 -
+2021-05-09 20:37:44 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:37:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 20:37:44 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:37:44] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 20:37:44 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 20:37:44 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 20:37:44 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 20:37:44] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:15:08 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 21:15:08 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 21:15:08 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 21:15:08 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 21:15:23 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:23] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:15:23 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:23] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-09 21:15:23 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:23] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-09 21:15:23 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-09 21:15:23 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 21:15:23 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:23] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 21:15:23 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 21:15:23 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:23] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:15:57 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 21:15:57 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 21:15:57 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:15:57] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 21:16:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:00] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:16:00 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 21:16:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:00] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 21:16:00 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 6, 'name': '张攀', 'order_day': '2021-05-11', 'order_time': '20:00-22:00'}]
+2021-05-09 21:16:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:00] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:16:15 [INFO] [get_data.py:103] sql is : DELETE FROM order_list WHERE id = '6'
+2021-05-09 21:16:15 [INFO] [get_data.py:105] sql result is : ()
+2021-05-09 21:16:15 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:15] "[37mPOST /api/v1/get_data/deleteData HTTP/1.1[0m" 200 -
+2021-05-09 21:16:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:16] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:16:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:16] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 21:16:16 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 21:16:16 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 21:16:16 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:16:16] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:26:24 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:26:24] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:26:31 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:8888/ (Press CTRL+C to quit)
+2021-05-09 21:26:31 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-09 21:26:32 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-09 21:26:32 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-09 21:27:11 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:11] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:27:18 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 21:27:18 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:18] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 21:27:18 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}]
+2021-05-09 21:27:18 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:18] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:27:40 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 21:27:40 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 21:27:40 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:40] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -
+2021-05-09 21:27:44 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:27:45 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 21:27:45 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}]
+2021-05-09 21:27:45 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:45] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:27:46 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:27:46] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 21:28:46 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:28:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-09 21:28:53 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:28:53] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-09 21:28:53 [INFO] [get_data.py:112] sql is : select * from order_list where order_day='2021-05-09' or order_day='2021-05-10' or order_day='2021-05-11'
+2021-05-09 21:28:53 [INFO] [get_data.py:114] sql result is : [{'id': 4, 'name': '饶闯', 'order_day': '2021-05-11', 'order_time': '10:00-12:00'}, {'id': 7, 'name': 'Kevin哈哈哈', 'order_day': '2021-05-11', 'order_time': '8:00-10:00'}]
+2021-05-09 21:28:53 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:28:53] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-09 21:29:00 [INFO] [get_data.py:88] sql is : INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)
+2021-05-09 21:29:00 [INFO] [get_data.py:90] sql result is : ()
+2021-05-09 21:29:00 [INFO] [_internal.py:113] 127.0.0.1 - - [09/May/2021 21:29:00] "[37mPOST /api/v1/get_data/addData HTTP/1.1[0m" 200 -

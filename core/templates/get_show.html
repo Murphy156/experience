@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>预约系统</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <script type="text/javascript" src="../static/js/framework.js"></script>
+    <script type="text/javascript" src="../static/js/get_show.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body onload="running_date()">
+
+<div class="container-fluid">
+    <h1 style="margin-top:10%;margin-left:40%">实验室预约系统</h1>
+    <div class="row"  style="margin-top:1%;margin-left:40%" id="name_put">
+        <form>
+            name: <input type="text" name="name" id="name">
+        </form>
+    </div>
+
+    <div class="row"  style="margin-top:1%;margin-left:40%" id="data_put">
+        <form>
+            date: <select name="date_choose" id="date_choose" onload="getdate()">
+                        <option></option>
+                    </select>
+        </form>
+    </div>
+
+    <div class="row"  style="margin-top:1%;margin-left:40%" id="time_put">
+        <form>
+            time: <select name="time" id="time">
+                        <option value="8:00-10:00">8:00-10:00</option>
+                        <option value="10:00-12:00">10:00-12:00</option>
+                        <option value="12:00-14:00">12:00-14:00</option>
+                        <option value="14:00-16:00">14:00-16:00</option>
+                        <option value="16:00-18:00">16:00-18:00</option>
+                        <option value="18:00-20:00">18:00-20:00</option>
+                        <option value="20:00-22:00">20:00-22:00</option>
+                    </select>
+        </form>
+    </div>
+
+    <div class="row"  style="margin-top:1%;margin-left:50%" id="anniu">
+         <button onclick="add_data(this)" class="btn-confirm" id="btn_ok" >预约</button>
+    </div>
+
+     <div id="teInfo" class="col-6" style="margin-top: 1%;margin-left:20%;height: 500px,">
+         <div style="margin-top: 1%;margin-left: 10%;background: blue" id="userInfo">
+             <table id="InfoTbl" border="1"  class="table table-dark table-hover"></table>
+         </div>
+     </div>
+</div>>
+
+</body>
+</html>
