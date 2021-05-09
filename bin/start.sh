@@ -2,7 +2,7 @@
 
 set -x
 
-process=/data/opt/HotelManagement/core/run.py
+process=/data/opt/experience/core/run.py
 pid=$(ps x | grep $process | grep -v grep | awk '{print $1}')
 if ps -p $pid > /dev/null
 then

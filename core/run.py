@@ -16,8 +16,6 @@ def userManagement():
     return render_template('get_show.html')
 
 
-
-
 if __name__ == '__main__':
     print("start!")
 
