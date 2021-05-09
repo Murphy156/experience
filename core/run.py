@@ -6,7 +6,11 @@
 # @File : run.py
 
 from flask import Flask, render_template
-
+import sys
+import os
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
 
 app = Flask(__name__, template_folder='templates/', static_folder='templates/static')
 app.config['JSON_SORT_KEYS'] = False
