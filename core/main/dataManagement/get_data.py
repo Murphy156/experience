@@ -68,6 +68,9 @@ class GETDATA(Resource):
 
 
     def getdate(self):
+        today = datetime.date.today()
+        tomorrow = today + datetime.timedelta(days=1)
+        after_tomorrow = today + datetime.timedelta(days=2)
         a = str(today)
         b = str(tomorrow)
         c = str(after_tomorrow)
