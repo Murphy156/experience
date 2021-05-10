@@ -97,6 +97,7 @@ var deleteUser = function (obj) {
             //添加额外的请求头
             success: function (data) {
                 //函数参数 "data" 为请求成功服务端返回的数据
+                getUserInfo();
                 console.log(data)
                 return data;
             },
