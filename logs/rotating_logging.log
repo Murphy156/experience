@@ -529,3 +529,23 @@ pymysql.err.OperationalError: (1049, "Unknown database 'experiment'")
 2021-05-11 07:51:42 [INFO] [_internal.py:113]  * Restarting with stat
 2021-05-11 07:51:43 [WARNING] [_internal.py:113]  * Debugger is active!
 2021-05-11 07:51:43 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-11 23:30:09 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:6666/ (Press CTRL+C to quit)
+2021-05-11 23:30:09 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-11 23:30:09 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-11 23:30:09 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-11 23:42:58 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:6666/ (Press CTRL+C to quit)
+2021-05-11 23:42:58 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-11 23:42:59 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-11 23:42:59 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-11 23:56:15 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+2021-05-11 23:56:15 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-11 23:56:15 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-11 23:56:15 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-11 23:56:22 [INFO] [_internal.py:113] 127.0.0.1 - - [11/May/2021 23:56:22] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-11 23:56:22 [INFO] [_internal.py:113] 127.0.0.1 - - [11/May/2021 23:56:22] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-11 23:56:22 [INFO] [_internal.py:113] 127.0.0.1 - - [11/May/2021 23:56:22] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-11 23:56:22 [INFO] [_internal.py:113] 127.0.0.1 - - [11/May/2021 23:56:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-11 23:56:27 [INFO] [get_data.py:115] sql is : select * from order_list where order_day='2021-05-11' or order_day='2021-05-12' or order_day='2021-05-13'
+2021-05-11 23:56:27 [INFO] [_internal.py:113] 127.0.0.1 - - [11/May/2021 23:56:27] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-11 23:56:27 [INFO] [get_data.py:117] sql result is : [{'id': 1, 'name': '张攀', 'order_day': '2021-05-11', 'order_time': '20:00-22:00'}, {'id': 4, 'name': '张攀', 'order_day': '2021-05-13', 'order_time': '20:00-22:00'}]
+2021-05-11 23:56:27 [INFO] [_internal.py:113] 127.0.0.1 - - [11/May/2021 23:56:27] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -

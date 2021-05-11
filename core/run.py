@@ -32,5 +32,5 @@ if __name__ == '__main__':
     from core.main.dataManagement.get_data import get_data
     app.register_blueprint(get_data, url_prefix='/api/v1')
 
-    app.run(host="0.0.0.0", port=6666, debug=True)
+    app.run(host="0.0.0.0", port=9999, debug=True)
     print("running!")
