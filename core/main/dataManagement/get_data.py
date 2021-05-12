@@ -86,7 +86,6 @@ class GETDATA(Resource):
         data = []
         for item in reqDataDict.keys():
             data.append(reqDataDict[item])
-
         sql = 'INSERT INTO order_list(name,order_day,order_time) VALUE (%s,%s,%s)'
         LOG.info(f"sql is : {sql}")
         res = self._common.db.execute(sql, data)
@@ -133,4 +132,10 @@ class GETDATA(Resource):
             'body': rows
         }
         return outputData
+
+    # 用于检测不能同一天预约两个时间段
+    def double_check(self):
+        pass
+
+
 api.add_resource(GETDATA, '/get_data/<operation>')
