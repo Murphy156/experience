@@ -45,7 +45,7 @@ class GETDATA(Resource):
         # 实例化Common类
         self._common = Common()
 
-    def get(self,operation):
+    def get(self, operation):
         if (operation == 'getdate'):
             return self.getdate()
         elif (operation == 'addData'):
@@ -54,8 +54,10 @@ class GETDATA(Resource):
             return self.deleteData()
         elif (operation == 'getUserInfo'):
             return self.getUserInfo()
+        elif (operation == 'currentShowUser'):
+            return self.currentShowUser()
 
-    def post(self,operation):
+    def post(self, operation):
         if (operation == 'getdate'):
             return self.getdate()
         elif (operation == 'addData'):
@@ -64,6 +66,8 @@ class GETDATA(Resource):
             return self.deleteData()
         elif (operation == 'getUserInfo'):
             return self.getUserInfo()
+        elif (operation == 'currentShowUser'):
+            return self.currentShowUser()
 
 
 
@@ -133,9 +137,24 @@ class GETDATA(Resource):
         }
         return outputData
 
+    def currentShowUser(self):
+        today1 = str(today)
+        tomorrow1 = str(tomorrow)
+        after_tomorrow1 = str(after_tomorrow)
+        sql = f"select * from order_list where order_day='{today1}' or order_day='{tomorrow1}' or order_day='{after_tomorrow1}'"
+        LOG.info(f"sql is : {sql}")
+        res = self._common.db.execute(sql)
+        LOG.info("sql result is : " + str(res))
+        for index in range(len(res)):
+            res[index].pop('id')
+            res[index].pop('name')
+        return jsonify(res)
+
+
     # 用于检测不能同一天预约两个时间段
-    def double_check(self):
+    def one_day_double_check(self):
         pass
 
-
+    def same_check(self):
+        pass
 api.add_resource(GETDATA, '/get_data/<operation>')

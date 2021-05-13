@@ -39,6 +39,52 @@ var getdate = function(){
     });
 }
 
+var sleep = function (milliSeconds) {
+        var startTime = new Date().getTime();
+        while (new Date().getTime() < startTime + milliSeconds) {
+            console.log(new Date().getTime());
+        }//暂停一段时间 10000=1S。
+    }
+
+var same_check = function () {
+    var url = "/api/v1/get_data/currentShowUser";
+    var date1 = $("#date_choose").val();
+    var time1 = $("#time").val();
+    var error_flat;
+    var currentPerson = {order_day:date1, order_time:time1}
+    console.log(url);
+
+    $.get(url,function (data, status){
+        if (status = 'success'){
+            console.log(data)
+            console.log(currentPerson)
+            console.log(data[0]["order_day"])
+            console.log(currentPerson["order_day"])
+            for (var i=0;i<data.length;i++){
+                if (data[i]["order_day"]== currentPerson["order_day"]){
+                    if(data[i]["order_time"]== currentPerson["order_time"]){
+                        error_flat = 1;
+                        break;
+                    }
+                    else {
+                        error_flat = 0;
+                    }
+                }
+            }
+            console.log(error_flat)
+            if (error_flat == 1){
+                alert("时间已被预约")
+                getUserInfo();
+            }
+            else{
+                add_data();
+            }
+        }
+    });
+
+
+}
+
 var add_data = function () {
         var name = $("#name").val();
         var date = $("#date_choose").val();
@@ -49,10 +95,8 @@ var add_data = function () {
             "time":time
         }
         var url = "/api/v1/get_data/addData"
-
         console.log(url);
         console.log(postData);
-
         $.ajax({
             type:'POST',
             url:url,
@@ -68,6 +112,7 @@ var add_data = function () {
                 return data;
             },
         });
+
 }
 
 
@@ -120,4 +165,3 @@ var getUserInfo = function () {
         }
     });
 }
-
