@@ -147,7 +147,6 @@ class GETDATA(Resource):
         LOG.info("sql result is : " + str(res))
         for index in range(len(res)):
             res[index].pop('id')
-            res[index].pop('name')
         return jsonify(res)
 
 

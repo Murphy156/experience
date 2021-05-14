@@ -50,16 +50,17 @@ var same_check = function () {
     var url = "/api/v1/get_data/currentShowUser";
     var date1 = $("#date_choose").val();
     var time1 = $("#time").val();
+    var name1 = $("#name").val();
     var error_flat;
+    var count = 0;
+    var same_day_order_flat = 0;
+    var currentCheck = {name:name1, order_day:date1, order_time:time1}
     var currentPerson = {order_day:date1, order_time:time1}
     console.log(url);
 
     $.get(url,function (data, status){
         if (status = 'success'){
-            console.log(data)
-            console.log(currentPerson)
-            console.log(data[0]["order_day"])
-            console.log(currentPerson["order_day"])
+            //用以判断所预约的时间是否被人预约，设置标志为error_flat
             for (var i=0;i<data.length;i++){
                 if (data[i]["order_day"]== currentPerson["order_day"]){
                     if(data[i]["order_time"]== currentPerson["order_time"]){
@@ -71,9 +72,28 @@ var same_check = function () {
                     }
                 }
             }
+
+            //用以判断同一个是否在同一天预约超过两次，设置标志为same_day_order_flat
+            for (var i=0;i<data.length;i++){
+                if (data[i]["name"]== currentCheck["name"]){
+                    if(data[i]["order_day"]== currentCheck["order_day"]){
+                        same_day_order_flat++;
+                        continue;
+                    }
+                    else {
+                        count++;
+                    }
+                }
+            }
+
             console.log(error_flat)
+            console.log(same_day_order_flat)
             if (error_flat == 1){
-                alert("时间已被预约")
+                alert("您选的时间已被预约，请重新选择")
+                getUserInfo();
+            }
+            else if (same_day_order_flat == 2){
+                alert("预约失败：您不能同一天预约两次")
                 getUserInfo();
             }
             else{
@@ -165,3 +185,4 @@ var getUserInfo = function () {
         }
     });
 }
+
