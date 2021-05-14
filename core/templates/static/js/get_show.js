@@ -28,7 +28,7 @@ var getdate = function(){
         if (status == 'success') {
             console.log(data)
             var date = data
-            var optionstring = '<option selected="selected"></option>'
+            var optionstring = '<option selected="selected">请选择</option>'
             for (var item in date) {
                 optionstring += "<option value=\"" + date[item] + "\" >" + date[item] + "</option>";
             }
@@ -58,7 +58,12 @@ var same_check = function () {
     var currentPerson = {order_day:date1, order_time:time1}
     console.log(url);
 
-    $.get(url,function (data, status){
+    if (name1 == ''){
+        alert("请输入姓名")
+        getUserInfo();
+    }
+    else{
+        $.get(url,function (data, status){
         if (status = 'success'){
             //用以判断所预约的时间是否被人预约，设置标志为error_flat
             for (var i=0;i<data.length;i++){
@@ -101,8 +106,7 @@ var same_check = function () {
             }
         }
     });
-
-
+    }
 }
 
 var add_data = function () {
