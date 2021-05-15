@@ -1914,3 +1914,15 @@ pymysql.err.OperationalError: (1049, "Unknown database 'experiment'")
 2021-05-14 19:20:12 [INFO] [get_data.py:118] sql is : select * from order_list where order_day='2021-05-14' or order_day='2021-05-15' or order_day='2021-05-16'
 2021-05-14 19:20:12 [INFO] [get_data.py:120] sql result is : [{'id': 1, 'name': '赵征', 'order_day': '2021-05-14', 'order_time': '20:00-22:00'}, {'id': 2, 'name': '张攀', 'order_day': '2021-05-14', 'order_time': '22:00-24:00'}]
 2021-05-14 19:20:12 [INFO] [_internal.py:113] 127.0.0.1 - - [14/May/2021 19:20:12] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-15 14:33:54 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+2021-05-15 14:33:54 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-15 14:33:55 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-15 14:33:55 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-15 14:34:03 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-15 14:34:03 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:03] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-15 14:34:03 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:03] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-15 14:34:04 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-15 14:34:14 [INFO] [get_data.py:118] sql is : select * from order_list where order_day='2021-05-15' or order_day='2021-05-16' or order_day='2021-05-17'
+2021-05-15 14:34:14 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:14] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-15 14:34:14 [INFO] [get_data.py:120] sql result is : [{'id': 3, 'name': '张攀', 'order_day': '2021-05-15', 'order_time': '22:00-24:00'}]
+2021-05-15 14:34:14 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:14] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -

@@ -77,7 +77,7 @@ var same_check = function () {
                     }
                 }
             }
-
+            //
             //用以判断同一个是否在同一天预约超过两次，设置标志为same_day_order_flat
             for (var i=0;i<data.length;i++){
                 if (data[i]["name"]== currentCheck["name"]){
