@@ -39,13 +39,6 @@ var getdate = function(){
     });
 }
 
-var sleep = function (milliSeconds) {
-        var startTime = new Date().getTime();
-        while (new Date().getTime() < startTime + milliSeconds) {
-            console.log(new Date().getTime());
-        }//暂停一段时间 10000=1S。
-    }
-
 var same_check = function () {
     var url = "/api/v1/get_data/currentShowUser";
     var date1 = $("#date_choose").val();

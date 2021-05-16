@@ -27,9 +27,6 @@ get_data = Blueprint('GETDATA', __name__)
 api = Api(get_data)
 
 import time, datetime
-today = datetime.date.today()
-tomorrow = today + datetime.timedelta(days=1)
-after_tomorrow = today + datetime.timedelta(days=2)
 
 USREINFO_HEADER = {
     'id': '序号',
@@ -111,9 +108,9 @@ class GETDATA(Resource):
         LOG.info("sql result is : " + str(res))
 
     def getUserInfo(self):
-        today1 = str(today)
-        tomorrow1 = str(tomorrow)
-        after_tomorrow1 = str(after_tomorrow)
+        today1 = datetime.date.today()
+        tomorrow1 = today1 + datetime.timedelta(days=1)
+        after_tomorrow1 = today1 + datetime.timedelta(days=2)
         sql = f"select * from order_list where order_day='{today1}' or order_day='{tomorrow1}' or order_day='{after_tomorrow1}'"
         LOG.info(f"sql is : {sql}")
         res = self._common.db.execute(sql)
@@ -138,6 +135,9 @@ class GETDATA(Resource):
         return outputData
 
     def currentShowUser(self):
+        today = datetime.date.today()
+        tomorrow = today + datetime.timedelta(days=1)
+        after_tomorrow = today + datetime.timedelta(days=2)
         today1 = str(today)
         tomorrow1 = str(tomorrow)
         after_tomorrow1 = str(after_tomorrow)

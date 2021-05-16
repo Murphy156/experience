@@ -1926,3 +1926,53 @@ pymysql.err.OperationalError: (1049, "Unknown database 'experiment'")
 2021-05-15 14:34:14 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:14] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
 2021-05-15 14:34:14 [INFO] [get_data.py:120] sql result is : [{'id': 3, 'name': '张攀', 'order_day': '2021-05-15', 'order_time': '22:00-24:00'}]
 2021-05-15 14:34:14 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:34:14] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-15 14:47:09 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+2021-05-15 14:47:09 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-15 14:47:09 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-15 14:47:09 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-15 14:47:30 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:47:30] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-15 14:47:30 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:47:30] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-15 14:47:30 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:47:30] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-15 14:47:31 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:47:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-15 14:47:36 [INFO] [get_data.py:118] sql is : select * from order_list where order_day='2021-05-15' or order_day='2021-05-16' or order_day='2021-05-17'
+2021-05-15 14:47:36 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:47:36] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-15 14:47:36 [INFO] [get_data.py:120] sql result is : [{'id': 3, 'name': '张攀', 'order_day': '2021-05-15', 'order_time': '22:00-24:00'}]
+2021-05-15 14:47:36 [INFO] [_internal.py:113] 127.0.0.1 - - [15/May/2021 14:47:36] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-16 08:42:23 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+2021-05-16 08:42:23 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-16 08:42:23 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-16 08:42:23 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-16 08:42:31 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 08:42:31] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-16 08:42:31 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 08:42:31] "[37mGET /static/js/framework.js HTTP/1.1[0m" 200 -
+2021-05-16 08:42:31 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 08:42:31] "[37mGET /static/js/get_show.js HTTP/1.1[0m" 200 -
+2021-05-16 08:42:31 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 08:42:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-16 08:42:34 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 08:42:34] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-16 08:42:34 [INFO] [get_data.py:118] sql is : select * from order_list where order_day='2021-05-16' or order_day='2021-05-17' or order_day='2021-05-18'
+2021-05-16 08:42:34 [INFO] [get_data.py:120] sql result is : ()
+2021-05-16 08:42:34 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 08:42:34] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-16 09:01:05 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+2021-05-16 09:01:05 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-16 09:01:06 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-16 09:01:06 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-16 09:01:15 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:01:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-16 09:01:16 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:01:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-05-16 09:01:19 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:01:19] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-16 09:01:19 [INFO] [get_data.py:115] sql is : select * from order_list where order_day='2021-05-16' or order_day='2021-05-17' or order_day='2021-05-18'
+2021-05-16 09:01:19 [INFO] [get_data.py:117] sql result is : [{'id': 5, 'name': '张攀 ', 'order_day': '2021-05-18', 'order_time': '22:00-24:00'}]
+2021-05-16 09:01:19 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:01:19] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-16 09:01:35 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:01:35] "[35m[1mGET /api/v1/get_data/currentShowUser HTTP/1.1[0m" 500 -
+2021-05-16 09:05:10 [INFO] [_internal.py:113]  * Running on http://0.0.0.0:9999/ (Press CTRL+C to quit)
+2021-05-16 09:05:10 [INFO] [_internal.py:113]  * Restarting with stat
+2021-05-16 09:05:10 [WARNING] [_internal.py:113]  * Debugger is active!
+2021-05-16 09:05:10 [INFO] [_internal.py:113]  * Debugger PIN: 506-010-729
+2021-05-16 09:05:15 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:05:15] "[37mGET / HTTP/1.1[0m" 200 -
+2021-05-16 09:05:23 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:05:23] "[37mGET /api/v1/get_data/getdate HTTP/1.1[0m" 200 -
+2021-05-16 09:05:23 [INFO] [get_data.py:115] sql is : select * from order_list where order_day='2021-05-16' or order_day='2021-05-17' or order_day='2021-05-18'
+2021-05-16 09:05:23 [INFO] [get_data.py:117] sql result is : [{'id': 5, 'name': '张攀 ', 'order_day': '2021-05-18', 'order_time': '22:00-24:00'}]
+2021-05-16 09:05:23 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:05:23] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
+2021-05-16 09:05:33 [INFO] [get_data.py:145] sql is : select * from order_list where order_day='2021-05-16' or order_day='2021-05-17' or order_day='2021-05-18'
+2021-05-16 09:05:33 [INFO] [get_data.py:147] sql result is : [{'id': 5, 'name': '张攀 ', 'order_day': '2021-05-18', 'order_time': '22:00-24:00'}]
+2021-05-16 09:05:33 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:05:33] "[37mGET /api/v1/get_data/currentShowUser HTTP/1.1[0m" 200 -
+2021-05-16 09:05:35 [INFO] [get_data.py:115] sql is : select * from order_list where order_day='2021-05-16' or order_day='2021-05-17' or order_day='2021-05-18'
+2021-05-16 09:05:36 [INFO] [get_data.py:117] sql result is : [{'id': 5, 'name': '张攀 ', 'order_day': '2021-05-18', 'order_time': '22:00-24:00'}]
+2021-05-16 09:05:36 [INFO] [_internal.py:113] 127.0.0.1 - - [16/May/2021 09:05:36] "[37mGET /api/v1/get_data/getUserInfo HTTP/1.1[0m" 200 -
