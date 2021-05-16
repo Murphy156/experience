@@ -28,7 +28,7 @@ var getdate = function(){
         if (status == 'success') {
             console.log(data)
             var date = data
-            var optionstring = '<option selected="selected">请选择</option>'
+            var optionstring = '<option selected="selected" value="please">请选择</option>'
             for (var item in date) {
                 optionstring += "<option value=\"" + date[item] + "\" >" + date[item] + "</option>";
             }
@@ -41,8 +41,8 @@ var getdate = function(){
 
 var same_check = function () {
     var url = "/api/v1/get_data/currentShowUser";
-    var date1 = $("#date_choose").val();
-    var time1 = $("#time").val();
+    var date1 = $("#date_choose option:selected").val();
+    var time1 = $("#time option:selected").val();
     var name1 = $("#name").val();
     var error_flat;
     var count = 0;
@@ -53,6 +53,14 @@ var same_check = function () {
 
     if (name1 == ''){
         alert("请输入姓名")
+        getUserInfo();
+    }
+    else if (date1 == 'please'){
+        alert("请选择日期")
+        getUserInfo();
+    }
+    else if (time1 == 'timechose'){
+        alert("请选择时间")
         getUserInfo();
     }
     else{
