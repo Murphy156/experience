@@ -13,8 +13,9 @@
 </head>
 <body onload="running_date()">
 
-<div class="container-fluid">
-    <h1 style="margin-top:10%;margin-left:40%">实验室预约系统</h1>
+<div class="container-fluid" style="background:aliceblue;height: 1000px">
+    <h1 style="margin-left:40%">实验室预约系统</h1>
+    <div class="divcss1">
     <div class="row"  style="margin-top:1%;margin-left:40%" id="name_put">
         <form>
             <b>姓名</b>
@@ -51,13 +52,14 @@
     <div class="row"  style="margin-top:1%;margin-left:50%" id="anniu">
          <button onclick="same_check()" class="btn-confirm" id="btn_ok" >预约</button>
     </div>
+    </div>
 
      <div id="teInfo" class="col-6" style="margin-top: 1%;margin-left:20%;height: 500px,">
-         <div  style="height:450px; margin-top: 1%;margin-left: 10%;overflow:scroll" id="userInfo" >
+         <div  style="height:450px; margin-top: 5%;margin-left: 10%;overflow:scroll" id="userInfo" >
              <table id="InfoTbl" border="1"  class="table table-dark table-hover" style="min-height:100px"></table>
          </div>
      </div>
-</div>>
+</div>
 
 </body>
 </html>
